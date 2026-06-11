@@ -1,25 +1,25 @@
-## Requierment:
+## Requirement:
 
 ### MG Scrip
 
-| Quantities | Content                     |
-|------------|-----------------------------|
+| Quantities | Content                          |
+|------------|----------------------------------|
 | 50         | [MG Scrip](../Items/MG Scrip.md) |
 
 ### Council Scrip
 
-| Quantities | Content                               |
-|------------|---------------------------------------|
+| Quantities | Content                                    |
+|------------|--------------------------------------------|
 | 50         | [Council Scrip](../Items/Council Scrip.md) |
 
 ### Caranite
 
-| Quantities | Content                     |
-|------------|-----------------------------|
+| Quantities | Content                          |
+|------------|----------------------------------|
 | 50         | [Caranite](../Items/Caranite.md) |
 
 ### Irradiated Valakkar Pearl
 
-| Quantities | Content                                                                 |
-|------------|-------------------------------------------------------------------------|
+| Quantities | Content                                                                       |
+|------------|-------------------------------------------------------------------------------|
 | 12         | [Irradiated Valakkar Pearl (Grade AA)](../Items/Irradiated Valakkar Pearl.md) |

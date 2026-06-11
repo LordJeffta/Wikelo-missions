@@ -1,15 +1,14 @@
 yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
 site_name: Wikelo missions
-site_url: https://jeffta.github.io/wikelo-missions/
-repo_url: https://github.com/jeffta/wikelo-missions
-repo_name: jeffta/wikelo-missions
+site_url: https://lordjeffta.github.io/Wikelo-missions
+repo_url: https://github.com/lordjeffta/Wikelo-missions
+repo_name: lordjeffta/Wikelo-missions
 
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.sections
+    - navigation.instant
     - search.suggest
     - search.highlight
   palette:
@@ -25,5 +24,5 @@ theme:
 plugins:
   - search
 
-nav:
-  - Home: index.md
+markdown_extensions:
+  - attr_list
