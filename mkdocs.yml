@@ -24,6 +24,3 @@ theme:
 
 plugins:
   - search
-
-nav:
-  - Home: index.md
