@@ -1,5 +1,7 @@
 ## Requirement
 
+<div class="grid" markdown>
+
 | Quantity | Content                            |
 |----------|------------------------------------|
 | 3        | [Wikelo Favor](../Wikelo Favor.md) |
@@ -9,3 +11,7 @@
 | 1        | Monde Arms                         |
 | 1        | Monde Legs                         |
 | 1        | Warden Backpack Monde              |
+
+![Image title](../../Assets/monde_crimson_camo.png){ align=right }
+
+</div>

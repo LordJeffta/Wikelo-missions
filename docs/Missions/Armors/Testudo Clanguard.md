@@ -1,5 +1,7 @@
 ## Requirement
 
+<div class="grid" markdown>
+
 | Quantity | Content                                   |
 |----------|-------------------------------------------|
 | 15       | [Vanduul Plating](../../Items/Vanduul.md) |
@@ -9,3 +11,7 @@
 | 1        | Testudo Arms Turfwar                      |
 | 1        | Testudo Legs Turfwar                      |
 | 1        | Testudo Backpack Turfwar                  |
+
+![Image title](../../Assets/testudo_clanguard.png){ align=right }
+
+</div>

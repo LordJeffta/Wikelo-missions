@@ -1,5 +1,7 @@
 ## Requirement
 
+<div class="grid" markdown>
+
 | Quantity | Content                                 |
 |----------|-----------------------------------------|
 | 30       | [Carinite](../../Items/Carinite.md)     |
@@ -11,3 +13,7 @@
 | 1        | Strata Arms                             |
 | 1        | Strata Legs                             |
 | 1        | Strata Backpack                         |
+
+![Image title](../../Assets/strata_heatwave.png){ align=right }
+
+</div>
