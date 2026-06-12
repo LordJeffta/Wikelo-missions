@@ -1,4 +1,4 @@
-> Star Citizen version: `4.8.2`
+> Star Citizen version: `4.8.x`
 
 ![Image title](./Assets/wikelo.png)
 
