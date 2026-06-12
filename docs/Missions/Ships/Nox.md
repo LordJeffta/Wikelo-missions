@@ -2,5 +2,4 @@
 
 | Quantity | Content                                             |
 |----------|-----------------------------------------------------|
-| 2        | [Wikelo Favor](../Wikelo Favor.md)                  |
-| 15       | [ASD Secure Drive](../../Items/ASD Secure Drive.md) |
+| 4        | [Wikelo Favor](../Wikelo Favor.md)                  |

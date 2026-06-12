@@ -1,0 +1,1 @@
+The `Saldynium` is a resource that can be mined in [Hator](https://starcitizen.tools/Hathor_Group){target="_blank"} facilities.

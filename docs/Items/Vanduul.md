@@ -1,0 +1,1 @@
+The `Vanduul Plating` and `Vanduul Metal` can be found on Vanduul corpses in the site B of the `Vanduul-Tech Smugglers` or `Retrieve Additional Smuggler Intel` missions on Nyx.

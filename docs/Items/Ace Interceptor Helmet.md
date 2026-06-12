@@ -1,0 +1,1 @@
+The `Ace Interceptor Helmet` can be found in the `Orange Level Contract: Security Patrol` on `Ace pilot`.

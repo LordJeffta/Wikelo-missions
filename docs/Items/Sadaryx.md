@@ -1,0 +1,1 @@
+The `Sadaryx` can be mined in the caves of the `QV Breaker Station Mining Rights` missions on Nyx.
