@@ -16,7 +16,7 @@
 
 | Quantity | Content                          |
 |----------|----------------------------------|
-| 50       | [Carinite](../Items/Carinite.md) |
+| 40       | [Carinite](../Items/Carinite.md) |
 
 ### Irradiated Valakkar Pearl
 

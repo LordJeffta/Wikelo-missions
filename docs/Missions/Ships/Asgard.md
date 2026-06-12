@@ -12,4 +12,4 @@
 | 5        | [RCMBNT-XTL-1](../../Items/Hyperion.md)             |
 | 5        | [RCMBNT-XTL-2](../../Items/Hyperion.md)             |
 | 5        | [RCMBNT-XTL-3](../../Items/Hyperion.md)             |
-| 5        | [ASD Secure Drive](../../Items/ASD Secure Drive.md) |
+| 3        | [ASD Secure Drive](../../Items/ASD Secure Drive.md) |
