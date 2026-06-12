@@ -1,0 +1,1 @@
+The `Yormandi Eye` and the `Yormandi Tongue` can be found on the [Onyx facilities](https://starcitizen.tools/Onyx_Facility_(ASD)){target="_blank"}.

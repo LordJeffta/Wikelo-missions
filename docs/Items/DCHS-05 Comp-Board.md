@@ -1,0 +1,1 @@
+The `DCHS-05 Comp-Board` can be found in the [Contested Zones](https://starcitizen.tools/Contested_Zones){target="_blank"} of [Ruin Station](https://starcitizen.tools/Ruin_Station){target="_blank"} on Pyro.
