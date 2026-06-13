@@ -7,7 +7,7 @@
 | 1        | Zenith Laser Sniper Rifle                           |
 | 7        | [ASD Secure Drive](../../Items/ASD Secure Drive.md) |
 
-![Image title](../../Assets/zenith_snow_camo.png){ align=right }
+![Image title](../../Assets/Wapons/zenith_snow_camo.png){ align=right }
 
 </div>
 

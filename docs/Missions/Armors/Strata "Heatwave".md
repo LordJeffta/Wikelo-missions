@@ -14,6 +14,6 @@
 | 1        | Strata Legs                             |
 | 1        | Strata Backpack                         |
 
-![Image title](../../Assets/strata_heatwave.png){ align=right }
+![Image title](../../Assets/Armors/strata_heatwave.png){ align=right }
 
 </div>

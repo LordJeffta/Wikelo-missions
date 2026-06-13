@@ -8,6 +8,6 @@
 | 1        | [Wikelo Favor](../Wikelo Favor.md)                                                                              |
 | 1        | [Expired Quantanium Fuel Canister](https://starcitizen.tools/Expired_Quantanium_Fuel_Canister){target="_blank"} |
 
-![Image title](../../Assets/killshot_dominion_camo.png){ align=right }
+![Image title](../../Assets/Wapons/killshot_dominion_camo.png){ align=right }
 
 </div>

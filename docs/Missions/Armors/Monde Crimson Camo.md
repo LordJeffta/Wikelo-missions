@@ -12,6 +12,6 @@
 | 1        | Monde Legs                         |
 | 1        | Warden Backpack Monde              |
 
-![Image title](../../Assets/monde_crimson_camo.png){ align=right }
+![Image title](../../Assets/Armors/monde_crimson_camo.png){ align=right }
 
 </div>

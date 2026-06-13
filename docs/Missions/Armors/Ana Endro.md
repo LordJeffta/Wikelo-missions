@@ -11,6 +11,6 @@
 | 1        | Antium Legs                                |
 | 1        | Antium Backpack                            |
 
-![Image title](../../Assets/ana_endro.png){ align=right }
+![Image title](../../Assets/Armors/ana_endro.png){ align=right }
 
 </div>

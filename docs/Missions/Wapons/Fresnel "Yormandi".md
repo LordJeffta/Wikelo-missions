@@ -8,7 +8,7 @@
 | 6        | [Yormandi Eye](../../Items/Yormandi.md)    |
 | 3        | [Yormandi Tongue](../../Items/Yormandi.md) |
 
-![Image title](../../Assets/fresnel_yormandi.png){ align=right }
+![Image title](../../Assets/Wapons/fresnel_yormandi.png){ align=right }
 
 </div>
 

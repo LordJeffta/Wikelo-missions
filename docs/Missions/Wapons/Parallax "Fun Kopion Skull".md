@@ -10,6 +10,6 @@
 | 15       | [Saldynium (Ore)](../../Items/Saldynium.md)                                    |
 | 20       | [Irradiated Valakkar Fang (Juvenile)](../../Items/Irradiated Valakkar Fang.md) |
 
-![Image title](../../Assets/parallax_fun_kopion_skull.png){ align=right }
+![Image title](../../Assets/Wapons/parallax_fun_kopion_skull.png){ align=right }
 
 </div>

@@ -11,6 +11,6 @@
 | 1        | Antium Legs                                                                       |
 | 1        | Antium Backpack                                                                   |
 
-![Image title](../../Assets/bokto.png){ align=right }
+![Image title](../../Assets/Armors/bokto.png){ align=right }
 
 </div>

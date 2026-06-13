@@ -11,6 +11,6 @@
 | 1        | Geist Armor Legs ASD Edition                        |
 | 1        | Geist Armor Backpack ASD Edition                    |
 
-![Image title](../../Assets/geist_snow_camo.png){ align=right }
+![Image title](../../Assets/Armors/geist_snow_camo.png){ align=right }
 
 </div>

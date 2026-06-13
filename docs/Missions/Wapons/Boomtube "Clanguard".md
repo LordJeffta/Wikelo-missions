@@ -8,7 +8,7 @@
 | 1        | [Vanduul Plating](../../Items/Vanduul.md) |
 | 1        | [Vanduul Metal](../../Items/Vanduul.md)   |
 
-![Image title](../../Assets/boomtube_clanguard.png){ align=right }
+![Image title](../../Assets/Wapons/boomtube_clanguard.png){ align=right }
 
 </div>
 

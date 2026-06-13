@@ -7,6 +7,6 @@
 | 2        | [Wikelo Favor](../Wikelo Favor.md)                  |
 | 15       | [ASD Secure Drive](../../Items/ASD Secure Drive.md) |
 
-![Image title](../../Assets/golem.png){ align=right }
+![Image title](../../Assets/Ships/golem.png){ align=right }
 
 </div>

@@ -8,7 +8,7 @@
 | 4        | [Irradiated Valakkar Fang (Juvenile)](../../Items/Irradiated Valakkar Fang.md) |
 | 5        | Prism Laser Shotgun                                                            |
 
-![Image title](../../Assets/prism_irradiated.png){ align=right }
+![Image title](../../Assets/Wapons/prism_irradiated.png){ align=right }
 
 </div>
 

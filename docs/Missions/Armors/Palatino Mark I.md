@@ -12,6 +12,6 @@
 | 1        | Palatino Legs                              |
 | 1        | Palatino Backpack                          |
 
-![Image title](../../Assets/palatino_mki.png){ align=right }
+![Image title](../../Assets/Armors/palatino_mki.png){ align=right }
 
 </div>

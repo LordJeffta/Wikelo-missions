@@ -9,6 +9,6 @@
 | 1        | [Tailwind Flight Helmet](https://finder.cstone.space/FPSArmors1/6dcd35c1-3d7f-441a-9c3d-119879d4b852){target="_blank"} |
 | 1        | [Expired Quantanium Fuel Canister](https://starcitizen.tools/Expired_Quantanium_Fuel_Canister){target="_blank"}        |
 
-![Image title](../../Assets/tailwind_suit.png){ align=right }
+![Image title](../../Assets/Armors/tailwind_suit.png){ align=right }
 
 </div>

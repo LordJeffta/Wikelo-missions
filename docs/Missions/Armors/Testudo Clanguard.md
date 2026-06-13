@@ -12,6 +12,6 @@
 | 1        | Testudo Legs Turfwar                      |
 | 1        | Testudo Backpack Turfwar                  |
 
-![Image title](../../Assets/testudo_clanguard.png){ align=right }
+![Image title](../../Assets/Armors/testudo_clanguard.png){ align=right }
 
 </div>

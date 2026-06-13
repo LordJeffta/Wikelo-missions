@@ -8,6 +8,6 @@
 | 3        | [Wikelo Favor](../Wikelo Favor.md)                                                                           |
 | 10       | [Sadaryx](../../Items/Sadaryx.md)                                                                            |
 
-![Image title](../../Assets/r97_crimson_camo.png){ align=right }
+![Image title](../../Assets/Wapons/r97_crimson_camo.png){ align=right }
 
 </div>

@@ -8,6 +8,6 @@
 | 20       | [Carinite](../../Items/Carinite.md)                                                                                |
 | 20       | [Bluemoon Fungus](https://starcitizen.tools/Bluemoon_Fungus){target="_blank"}                                      |
 
-![Image title](../../Assets/tripledown_heatwave.png){ align=right }
+![Image title](../../Assets/Wapons/tripledown_heatwave.png){ align=right }
 
 </div>

@@ -14,6 +14,6 @@
 | 1        | Corbel Legs Mire                                    |
 | 1        | Novikov Backpack Mire                               |
 
-![Image title](../../Assets/corbel_crush.png){ align=right }
+![Image title](../../Assets/Armors/corbel_crush.png){ align=right }
 
 </div>
