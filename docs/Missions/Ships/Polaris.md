@@ -1,5 +1,7 @@
 ## Requirement
 
+<div class="grid" markdown>
+
 | Quantity | Content                                                                           |
 |----------|-----------------------------------------------------------------------------------|
 | 50       | [Wikelo Favor](../Wikelo Favor.md)                                                |
@@ -22,3 +24,10 @@
 | 1        | [RCMBNT-XTL-1](../../Items/Hyperion.md)                                           |
 | 1        | [RCMBNT-XTL-2](../../Items/Hyperion.md)                                           |
 | 1        | [RCMBNT-XTL-3](../../Items/Hyperion.md)                                           |
+
+![Image title](../../Assets/Ships/polaris_TDCC.jpg){ align=right }
+/// caption
+Image from [The Deaths Call Cove Organization](https://robertsspaceindustries.com/en/orgs/DEATHSCALL){target="_blank"}, [image link](https://imgur.com/dcc-wikelo-polaris-qQqUAWu){target="_blank"}
+///
+
+</div>

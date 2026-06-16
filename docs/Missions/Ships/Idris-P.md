@@ -2,6 +2,8 @@
 
 Reputation: Very Best Customer (999 Reputation)
 
+<div class="grid" markdown>
+
 | Quantity | Content                                                                           |
 |----------|-----------------------------------------------------------------------------------|
 | 50       | [Wikelo Favor](../Wikelo Favor.md)                                                |
@@ -24,3 +26,10 @@ Reputation: Very Best Customer (999 Reputation)
 | 5        | [RCMBNT-XTL-1](../../Items/Hyperion.md)                                           |
 | 5        | [RCMBNT-XTL-2](../../Items/Hyperion.md)                                           |
 | 5        | [RCMBNT-XTL-3](../../Items/Hyperion.md)                                           |
+
+![Image title](../../Assets/Ships/idris-p_LazyBrokOli.jpg){ align=right }
+/// caption
+Image from [LazyBrokOli](https://imgur.com/a/nhpr4GA){target="_blank"}
+///
+
+</div>
