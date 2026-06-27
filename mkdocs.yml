@@ -7,6 +7,8 @@ repo_name: lordjeffta/Wikelo-missions
 
 theme:
   name: material
+  logo: Assets/Icons/1st_Contact_banu_square.png
+  favicon: Assets/Icons/1st_Contact_banu_square.png
   features:
     - navigation.instant
     - search.suggest
